@@ -2,8 +2,8 @@ Source: debathena-maybe-krb4-config
 Section: debathena/net
 Priority: extra
 Maintainer: Debathena Project <debathena@mit.edu>
-Build-Depends: @cdbs@, grep-dctrl
-Standards-Version: 3.8.0
+Build-Depends: cdbs, debhelper, dh-buildinfo, grep-dctrl
+Standards-Version: 3.9.3
 
 Package: debathena-maybe-krb4-config
 Architecture: all
